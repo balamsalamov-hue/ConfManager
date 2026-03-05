@@ -1,0 +1,47 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code files
+.vscode/
+
+# Rider projects
+.idea/
+
+# Personal files
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Aa]ssets/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.app
+*.apk
+*.xap
+*.ipa
+*.appx
+*.appxbundle
+*.appxupload
+*.cache
+*.rpt
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.bak
+*.swp
+*.swm
+*.swo
+
+# User-specific files
+*.userprefs
